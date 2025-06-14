@@ -12,11 +12,33 @@ Pantheon Turkey is a digital memorial honoring the legacy of Turkey’s most inf
 <h3>In Memoriam</h3>
 <br/>
 
-Name Surname (2025-2025)
+|<img src="honorees_images/sample_img.png" height="250"> |
+|:-:|
+|Name Surname (2025-2025)|
+
 <br/><br/>
-Name Surname 2 (2025-2025)
+
+|<img src="honorees_images/sample_img.png" height="250"> |
+|:-:|
+|Name Surname 2 (2025-2025)|
+
 <br/><br/>
-Name Surname 3 (2025-2025)
+
+|<img src="honorees_images/sample_img.png" height="250"> |
+|:-:|
+|Name Surname 3 (2025-2025)|
+
+<!-- Add new:
+"
+
+<br/><br/>
+
+|<img src="honorees_images/sample_img.png" height="250"> |
+|:-:|
+|Name Surname 3 (2025-2025)|
+
+"
+-->
 
 <br/>
 <hr/>
