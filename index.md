@@ -10,9 +10,9 @@ Online mausoleum prepared for Turkey's leading artists and scientists.
 <br/>
 
 Name Surname (2025-2025)
-
+<br/><br/>
 Name Surname 2 (2025-2025)
-
+<br/><br/>
 Name Surname 3 (2025-2025)
 
 <br/>
