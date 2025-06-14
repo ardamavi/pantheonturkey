@@ -4,10 +4,12 @@
 
 <h1>Pantheon Turkey</h1>
 
-Online mausoleum prepared for Turkey's leading artists and scientists.<br/>
-Submit a nomination: [Nomination Page](nomination.md)
+Pantheon Turkey is a digital memorial honoring the legacy of Turkey’s most influential artists and scientists.<br/>To help expand this tribute, you can nominate a distinguished individual through our [Nomination Page](nomination.md).
 
 <hr/>
+<br/>
+
+<h3>In Memoriam</h3>
 <br/>
 
 Name Surname (2025-2025)
