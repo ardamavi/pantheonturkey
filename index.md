@@ -4,7 +4,8 @@
 
 <h1>Pantheon Turkey</h1>
 
-Online mausoleum prepared for Turkey's leading artists and scientists.
+Online mausoleum prepared for Turkey's leading artists and scientists.<br/>
+Submit a nomination: [Nomination Page](nomination.md)
 
 <hr/>
 <br/>
