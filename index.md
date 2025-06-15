@@ -17,7 +17,7 @@ To help expand this tribute, you can nominate a distinguished individual through
 <!-- Add new:
 "
 
-|<img src="honorees_images/sample_img.png" height="250"> |
+|<img src="honorees_images/sample_img.jpeg" height="250"> |
 |:-:|
 |Name Surname (2025-2025)|
 
@@ -27,25 +27,25 @@ To help expand this tribute, you can nominate a distinguished individual through
 -->
 
 
-|<img src="honorees_images/sample_img.png" height="250"> |
+|<img src="honorees_images/volkan-konak.jpeg" height="250"> |
 |:-:|
 |Volkan Konak (1967-2025)|
 
 <br/><br/>
 
-|<img src="honorees_images/sample_img.png" height="250"> |
+|<img src="honorees_images/filiz-akin.jpeg" height="250"> |
 |:-:|
 |Filiz Akın (1943-2025)|
 
 <br/><br/>
 
-|<img src="honorees_images/sample_img.png" height="250"> |
+|<img src="honorees_images/edip-akbayram.jpeg" height="250"> |
 |:-:|
 |Edip Akbayram (1950-2025)|
 
 <br/><br/>
 
-|<img src="honorees_images/sample_img.png" height="250"> |
+|<img src="honorees_images/ferdi-tayfur.jpeg" height="250"> |
 |:-:|
 |Ferdi Tayfur (1945-2025)|
 
