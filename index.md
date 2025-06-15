@@ -14,33 +14,40 @@ To help expand this tribute, you can nominate a distinguished individual through
 <h3>In Memoriam</h3>
 <br/>
 
+<!-- Add new:
+"
+
 |<img src="honorees_images/sample_img.png" height="250"> |
 |:-:|
 |Name Surname (2025-2025)|
 
 <br/><br/>
 
-|<img src="honorees_images/sample_img.png" height="250"> |
-|:-:|
-|Name Surname 2 (2025-2025)|
-
-<br/><br/>
-
-|<img src="honorees_images/sample_img.png" height="250"> |
-|:-:|
-|Name Surname 3 (2025-2025)|
-
-<!-- Add new:
-"
-
-<br/><br/>
-
-|<img src="honorees_images/sample_img.png" height="250"> |
-|:-:|
-|Name Surname 3 (2025-2025)|
-
 "
 -->
+
+
+|<img src="honorees_images/sample_img.png" height="250"> |
+|:-:|
+|Volkan Konak (1967-2025)|
+
+<br/><br/>
+
+|<img src="honorees_images/sample_img.png" height="250"> |
+|:-:|
+|Filiz Akın (1943-2025)|
+
+<br/><br/>
+
+|<img src="honorees_images/sample_img.png" height="250"> |
+|:-:|
+|Edip Akbayram (1950-2025)|
+
+<br/><br/>
+
+|<img src="honorees_images/sample_img.png" height="250"> |
+|:-:|
+|Ferdi Tayfur (1945-2025)|
 
 <br/>
 <hr/>
