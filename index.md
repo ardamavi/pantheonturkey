@@ -4,7 +4,7 @@
 
 <h1>Pantheon Turkey</h1>
 
-Pantheon Turkey is a digital memorial that honors artists who have made a significant impact across Turkey through their artistic contributions.<br/><br/>
+Pantheon Turkey is a digital memorial that honors artists and scientists who have made a significant impact across Turkey through their contributions to the arts and sciences.<br/><br/>
 Stay informed about recent passings and commemorative events held in honor of selected individuals. Join our e-mail newsletter: [Subscribe](https://pantheonturkey.kit.com/subscribe)<br/><br/>
 To help expand this tribute, you can nominate a distinguished individual through our [Nomination Page](nomination.md).
 
@@ -26,6 +26,11 @@ To help expand this tribute, you can nominate a distinguished individual through
 "
 -->
 
+|<img src="honorees_images/gazi-yasargil.jpeg" height="250"> |
+|:-:|
+|Gazi Yaşargil (1925-2025)|
+
+<br/><br/>
 
 |<img src="honorees_images/volkan-konak.jpeg" height="250"> |
 |:-:|
@@ -42,6 +47,12 @@ To help expand this tribute, you can nominate a distinguished individual through
 |<img src="honorees_images/edip-akbayram.jpeg" height="250"> |
 |:-:|
 |Edip Akbayram (1950-2025)|
+
+<br/><br/>
+
+|<img src="honorees_images/ayla-erduran.jpeg" height="250"> |
+|:-:|
+|Ayla Erduran (1934-2025)|
 
 <br/><br/>
 
