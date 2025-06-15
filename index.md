@@ -4,7 +4,7 @@
 
 <h1>Pantheon Turkey</h1>
 
-Pantheon Turkey is a digital memorial honoring the legacy of Turkey’s most influential artists and scientists.<br/>To help expand this tribute, you can nominate a distinguished individual through our [Nomination Page](nomination.md).
+Pantheon Turkey is a digital memorial honoring the legacy of Turkey’s most influential artists and scientists.<br/>Stay informed about recent passings and commemorative events held in honor of selected individuals. Join our e-mail newsletter: [Subscribe](https://pantheonturkey.kit.com/subscribe)<br/>To help expand this tribute, you can nominate a distinguished individual through our [Nomination Page](nomination.md).
 
 <hr/>
 <br/>
