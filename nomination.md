@@ -11,7 +11,7 @@
 Nominations must be sent from a personal e-mail address to the address provided below. Before sending your e-mail, please make sure to read all the information text below. Thank you.
 
 <h3>Suggestion Rules</h3>
-The individual to be nominated must be someone who has made significant contributions and achieved recognition across Turkey in the arts and sciences.<br/>
+The individual to be nominated must be someone who has made significant contributions and achieved recognition across Turkey in the arts.<br/>
 To be eligible, the person must have passed away in 2025 or later.<br/>
 Additionally, each e-mail address may be used to submit a nomination only once.
 
