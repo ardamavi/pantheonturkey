@@ -2,7 +2,7 @@
 
 <center>
 
-<h1>Pantheon Turkey</h1>
+<h1><a href="/" style="color: inherit !important; text-decoration: none !important;">Pantheon Turkey</a></h1>
 
 <h2>Nomination</h2>
 
