@@ -30,7 +30,7 @@ Additionally, each e-mail address may be used to submit a nomination only once.
 <center>
 
 <br/>
-Copyright © 2025 - &#8734; Pantheon Turkey All Right Reserved
+Copyright © 2025 - &#8734; Pantheon Turkey. All Rights Reserved.
 <br/>
 
 </center>
