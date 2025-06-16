@@ -27,28 +27,31 @@ To help expand this tribute, you can nominate a distinguished individual through
   <tr>
     <td><img src="honorees_images/ferdi-tayfur.jpeg" width="250"></td>
     <td><img src="honorees_images/ayla-erduran.jpeg" width="250"></td>
-    <td><img src="honorees_images/ilhan-usmanbas.jpeg" width="250"></td>
+    <td><img src="honorees_images/selim-ileri.jpeg" width="250"></td>
   </tr>
   <tr>
     <td>Ferdi Tayfur<br/>(1945-2025)<br/><br/></td>
     <td>Ayla Erduran<br/>(1934-2025)<br/><br/></td>
-    <td>İlhan Usmanbaş<br/>(1921-2025)<br/><br/></td>
+    <td>Selim İleri<br/>(1949-2025)<br/><br/></td>
   </tr>
   <tr>
+    <td><img src="honorees_images/ilhan-usmanbas.jpeg" width="250"></td>
     <td><img src="honorees_images/edip-akbayram.jpeg" width="250"></td>
     <td ><img src="honorees_images/filiz-akin.jpeg" width="250"></td>
-    <td><img src="honorees_images/volkan-konak.jpeg" width="250"></td>
+    
   </tr>
   <tr>
+    <td>İlhan Usmanbaş<br/>(1921-2025)<br/><br/></td>
     <td>Edip Akbayram<br/>(1950-2025)<br/><br/></td>
     <td>Filiz Akın<br/>(1943-2025)<br/><br/></td>
-    <td>Volkan Konak<br/>(1967-2025)<br/><br/></td>
   </tr>
   <tr>
+    <td><img src="honorees_images/volkan-konak.jpeg" width="250"></td>
     <td><img src="honorees_images/ilhan-sesen.jpeg" width="250"></td>
     <td colspan="2" rowspan="2"></td>
   </tr>
   <tr>
+    <td>Volkan Konak<br/>(1967-2025)<br/><br/></td>
     <td>İlhan Şeşen<br/>(1948-2025)<br/><br/></td>
   </tr>
 </table>
