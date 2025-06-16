@@ -14,7 +14,7 @@ To help expand this tribute, you can nominate a distinguished individual through
 <hr/>
 <br/>
 
-<h2 style="text-decoration: none;">In Memoriam</h2>
+<h2 style="text-decoration: none; border-bottom: none;">In Memoriam</h2>
 <br/>
 
 <div style="width: 100%; display: flex; justify-content: center;">
