@@ -1,4 +1,8 @@
 <!-- Pantheon Turkey -->
+---
+layout: default
+title: Pantheon Turkey
+---
 
 <center>
 
