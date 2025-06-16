@@ -2,13 +2,11 @@
 
 <center>
 
-<h1>Pantheon Turkey</h1>
+<h1><a href="http://pantheonturkey.org/">Pantheon Turkey</a></h1>
 
-<p style="text-align: justify">
 Pantheon Turkey is a digital memorial that honors artists who have made a significant impact across Turkey through their contributions to the arts.<br/><br/>
 Stay connected with Pantheon Turkey for community updates, tributes, and upcoming events. To be part of our growing community, follow us on [Instagram](https://instagram.com/), [Twitter](https://x.com/) and subscribe to our e-mail newsletter: [Subscribe](https://pantheonturkey.kit.com/subscribe)<br/><br/>
 To help expand this tribute, you can nominate a distinguished individual through our [Nomination Page](nomination.md).
-</p>
 
 <hr/>
 <br/>
@@ -17,7 +15,7 @@ To help expand this tribute, you can nominate a distinguished individual through
 <br/>
 
 <h3>2025</h3>
-
+<br/>
 
 | <img src="honorees_images/ferdi-tayfur.jpeg" width="250"> | <img src="honorees_images/ayla-erduran.jpeg" width="250"> | <img src="honorees_images/edip-akbayram.jpeg" width="250"> |
 |:-:|:-:|:-:|
