@@ -20,7 +20,7 @@ To help expand this tribute, you can nominate a distinguished individual through
 <div style="width: 100%; display: flex; justify-content: center;">
 <table style="text-align: center; width: auto;">
   <caption style="caption-side: top; font-weight: bold; padding: 10px;">
-    <h3>2025</h3>
+    <h2>2025</h2>
   </caption>
   <tr>
     <td><img src="honorees_images/ferdi-tayfur.jpeg" width="250"><br/>Ferdi Tayfur (1945-2025)</td>
