@@ -2,7 +2,7 @@
 
 <center>
 
-<h1><a href="/" style="color: inherit !important; text-decoration: none !important;">Pantheon Turkey</a></h1>
+<h1 style="font-size: 3em;"><a href="/" style="color: inherit !important; text-decoration: none !important;">Pantheon Turkey</a></h1>
 
 </center>
 
@@ -14,7 +14,7 @@ To help expand this tribute, you can nominate a distinguished individual through
 <hr/>
 <br/>
 
-<h2 style="text-decoration: none; border-bottom: none;">In Memoriam</h2>
+<h1 style="text-decoration: none; border-bottom: none;">In Memoriam</h1>
 
 <div style="width: 100%; display: flex; justify-content: center;">
 
