@@ -20,7 +20,7 @@ Additionally, each e-mail address may be used to submit a nomination only once.
 <br/>
 <b>Content:</b> An informational text about the person you are nominating, written by you.
 
-<br/>
+<br/><br/>
 
 <b>Please send your nomination e-mail to the address:</b> "pantheonturkey[at]gmail.com"
 
