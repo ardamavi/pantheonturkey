@@ -2,6 +2,8 @@
 
 <center>
 
+<img src="home-logo-transparent.png" width="250">
+
 <h1 style="font-size: 3em;"><a href="/" style="color: inherit !important; text-decoration: none !important;">Pantheon Turkey</a></h1>
 
 </center>
