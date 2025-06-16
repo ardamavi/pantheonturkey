@@ -4,10 +4,13 @@
 
 <h1><a href="/" style="color: inherit !important; text-decoration: none !important;">Pantheon Turkey</a></h1>
 
-Pantheon Turkey is a digital memorial that honors artists who have made a significant impact across Turkey through their contributions to the arts.<br/><br/>
-Stay connected with Pantheon Turkey for community updates, tributes, and upcoming events. To be part of our growing community, follow us on [Instagram](https://instagram.com/), [Twitter](https://x.com/) and subscribe to our e-mail newsletter: [Subscribe](https://pantheonturkey.kit.com/subscribe)<br/><br/>
-To help expand this tribute, you can nominate a distinguished individual through our [Nomination Page](nomination.md).
+</center>
 
+Pantheon Turkey is a digital memorial that honors artists who have made a significant impact across Turkey through their contributions to the arts.<br/><br/>
+Stay connected with Pantheon Turkey for community updates, tributes, and upcoming events. To be part of our growing community, follow us on [Instagram](https://www.instagram.com/pantheonturkey) , [Twitter](https://x.com/pantheonturkey) and subscribe to our e-mail newsletter: [Subscribe](https://pantheonturkey.kit.com/subscribe)<br/><br/>
+To help expand this tribute, you can nominate a distinguished individual through our [Nomination Page](nomination.md) .
+
+<center>
 <hr/>
 <br/>
 
