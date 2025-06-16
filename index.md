@@ -16,7 +16,6 @@ To help expand this tribute, you can nominate a distinguished individual through
 
 <h3>In Memoriam</h3>
 <br/>
-</center>
 
 <div style="display: flex; justify-content: center;">
 <table style="text-align: center;">
@@ -29,14 +28,22 @@ To help expand this tribute, you can nominate a distinguished individual through
     <td><img src="honorees_images/edip-akbayram.jpeg" width="250"><br/>Edip Akbayram (1950-2025)</td>
   </tr>
   <tr>
-    <td></td>
     <td><img src="honorees_images/filiz-akin.jpeg" width="250"><br/>Filiz Akın (1943-2025)</td>
     <td><img src="honorees_images/volkan-konak.jpeg" width="250"><br/>Volkan Konak (1967-2025)</td>
   </tr>
 </table>
 </div>
 
-<center>
+<br/>
+<hr/>
+
+<h3>2025</h3>
+
+| <img src="honorees_images/ferdi-tayfur.jpeg" width="250"><br>Ferdi Tayfur (1945–2025) | <img src="honorees_images/ayla-erduran.jpeg" width="250"><br>Ayla Erduran (1934–2025) | <img src="honorees_images/edip-akbayram.jpeg" width="250"><br>Edip Akbayram (1950–2025) |
+|:-:|:-:|:-:|
+| <img src="honorees_images/filiz-akin.jpeg" width="250"><br>Filiz Akın (1943–2025) | <img src="honorees_images/volkan-konak.jpeg" width="250"><br>Volkan Konak (1967–2025) | |
+
+
 <br/>
 <hr/>
 <br/>
