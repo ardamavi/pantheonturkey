@@ -20,14 +20,14 @@ To help expand this tribute, you can nominate a distinguished individual through
 <h3>2025</h3>
 <br/>
 
-| <img src="honorees_images/ferdi-tayfur.jpeg" width="250"> | <img src="honorees_images/ayla-erduran.jpeg" width="250"> | <img src="honorees_images/edip-akbayram.jpeg" width="250"> |
+|<img src="honorees_images/ferdi-tayfur.jpeg" width="250">|<img src="honorees_images/ayla-erduran.jpeg" width="250">|<img src="honorees_images/edip-akbayram.jpeg" width="250">|
 |:-:|:-:|:-:|
 |Ferdi Tayfur (1945-2025)|Ayla Erduran (1934-2025)|Edip Akbayram (1950-2025)|
 
 
-| <img src="honorees_images/filiz-akin.jpeg" width="250"> | <img src="honorees_images/volkan-konak.jpeg" width="250"> |
+|<img src="honorees_images/filiz-akin.jpeg" width="250">|<img src="honorees_images/volkan-konak.jpeg" width="250">|
 |:-:|:-:|
-|Filiz Akın (1943-2025)| Volkan Konak (1967-2025)|
+|Filiz Akın (1943-2025)|Volkan Konak (1967-2025)|
 
 <br/>
 <hr/>
