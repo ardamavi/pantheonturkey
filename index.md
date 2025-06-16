@@ -16,6 +16,7 @@ To help expand this tribute, you can nominate a distinguished individual through
 
 <h3>In Memoriam</h3>
 <br/>
+</center>
 
 <div style="display: flex; justify-content: center;">
 <table style="text-align: center;">
@@ -34,6 +35,7 @@ To help expand this tribute, you can nominate a distinguished individual through
 </table>
 </div>
 
+<center>
 <br/>
 <hr/>
 <br/>
