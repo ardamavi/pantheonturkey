@@ -17,7 +17,8 @@ To help expand this tribute, you can nominate a distinguished individual through
 <h3>In Memoriam</h3>
 <br/>
 
-<table style="margin: auto; text-align: center;">
+<div style="display: flex; justify-content: center;">
+<table style="text-align: center;">
   <caption style="caption-side: top; font-weight: bold; padding: 10px;">
     <h3>2025</h3>
   </caption>
@@ -31,6 +32,7 @@ To help expand this tribute, you can nominate a distinguished individual through
     <td colspan="1" style="text-align: center;"><img src="honorees_images/volkan-konak.jpeg" width="250"><br/>Volkan Konak (1967-2025)</td>
   </tr>
 </table>
+</div>
 
 <br/>
 <hr/>
