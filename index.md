@@ -29,8 +29,9 @@ To help expand this tribute, you can nominate a distinguished individual through
     <td><img src="honorees_images/edip-akbayram.jpeg" width="250"><br/>Edip Akbayram (1950-2025)</td>
   </tr>
   <tr>
-    <td colspan="1" style="text-align: center;"><img src="honorees_images/filiz-akin.jpeg" width="250"><br/>Filiz Akın (1943-2025)</td>
-    <td colspan="1" style="text-align: center;"><img src="honorees_images/volkan-konak.jpeg" width="250"><br/>Volkan Konak (1967-2025)</td>
+    <td></td>
+    <td><img src="honorees_images/filiz-akin.jpeg" width="250"><br/>Filiz Akın (1943-2025)</td>
+    <td><img src="honorees_images/volkan-konak.jpeg" width="250"><br/>Volkan Konak (1967-2025)</td>
   </tr>
 </table>
 </div>
