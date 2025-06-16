@@ -37,7 +37,7 @@ To help expand this tribute, you can nominate a distinguished individual through
 <br/>
 <hr/>
 <br/>
-Copyright © 2025 - &#8734; Pantheon Turkey All Right Reserved
+Copyright © 2025 - &#8734; Pantheon Turkey. All Rights Reserved.
 <br/>
 
 </center>
