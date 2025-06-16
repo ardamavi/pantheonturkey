@@ -45,10 +45,11 @@ To help expand this tribute, you can nominate a distinguished individual through
     <td>Volkan Konak<br/>(1967-2025)<br/><br/></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="honorees_images/ilhan-sesen.jpeg" width="250"></td>
+    <td><img src="honorees_images/ilhan-sesen.jpeg" width="250"></td>
+    <td colspan="2" rowspan="2"></td>
   </tr>
   <tr>
-    <td colspan="3">İlhan Şeşen<br/>(1948-2025)<br/><br/></td>
+    <td>İlhan Şeşen<br/>(1948-2025)<br/><br/></td>
   </tr>
 </table>
 
