@@ -15,11 +15,10 @@ To help expand this tribute, you can nominate a distinguished individual through
 <br/>
 
 <h2 style="text-decoration: none; border-bottom: none;">In Memoriam</h2>
-<br/>
 
 <div style="width: 100%; display: flex; justify-content: center;">
 <table style="text-align: center; width: auto;">
-  <caption style="caption-side: top; font-weight: bold; padding: 10px;">
+  <caption style="caption-side: top; font-weight: bold;">
     <h2>2025</h2>
   </caption>
   <tr>
