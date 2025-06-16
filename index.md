@@ -17,10 +17,6 @@ To help expand this tribute, you can nominate a distinguished individual through
 <h3>In Memoriam</h3>
 <br/>
 
-<h3>2025</h3>
-<br/>
-
-
 <table style="margin: auto; text-align: center;">
   <caption style="caption-side: top; font-weight: bold; padding: 10px;">
     <h3>2025</h3>
