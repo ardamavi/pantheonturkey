@@ -17,6 +17,9 @@ To help expand this tribute, you can nominate a distinguished individual through
 <h2 style="text-decoration: none; border-bottom: none;">In Memoriam</h2>
 
 <div style="width: 100%; display: flex; justify-content: center;">
+
+<!-- 2025 - Start -->
+
 <table style="text-align: center; width: auto;">
   <caption style="caption-side: top; font-weight: bold;">
     <h2>2025</h2>
@@ -48,6 +51,9 @@ To help expand this tribute, you can nominate a distinguished individual through
     <td colspan="3">İlhan Şeşen<br/>(1948-2025)<br/><br/></td>
   </tr>
 </table>
+
+<!-- 2025 - End -->
+
 </div>
 
 <br/>
