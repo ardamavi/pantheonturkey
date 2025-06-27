@@ -8,19 +8,9 @@
 
 </center>
 
-<div class="responsive-content">
-  <div class="text">
-
 Pantheon Turkey is a digital memorial that honors artists who have made a significant impact across Turkey through their contributions to the arts.<br/><br/>
 Stay connected with Pantheon Turkey for community updates, tributes, and upcoming events. To be part of our growing community, follow us on <a href="https://www.instagram.com/pantheonturkey" target="_blank">Instagram</a>, <a href="https://x.com/pantheonturkey" target="_blank">Twitter</a> and subscribe to our e-mail newsletter: <a href="https://pantheonturkey.kit.com/subscribe" target="_blank">Subscribe</a><br/><br/>
 To help expand this tribute, you can nominate a distinguished individual through our [Nomination Page](nomination.md).
-
-</div>
-  <div class="media">
-    <img src="home-logo-transparent.png" alt="Sanatçı görseli">
-    <!-- <video controls src="PT-Video.mp4"></video> -->
-  </div>
-</div>
 
 <center>
 <hr/>
@@ -79,30 +69,3 @@ Copyright © 2025 - &#8734; Pantheon Turkey. All Rights Reserved.
 <br/>
 
 </center>
-
-<style>
-.responsive-content {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  align-items: flex-start;
-}
-.text {
-  flex: 2;
-  min-width: 250px;
-}
-.media {
-  flex: 1;
-  min-width: 200px;
-}
-@media (max-width: 768px) {
-  .responsive-content {
-    flex-direction: column;
-  }
-}
-img, video {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-</style>
