@@ -40,7 +40,6 @@ To help expand this tribute, you can nominate a distinguished individual through
     <td><img src="honorees_images/ilhan-usmanbas.jpeg" width="250"></td>
     <td><img src="honorees_images/edip-akbayram.jpeg" width="250"></td>
     <td ><img src="honorees_images/filiz-akin.jpeg" width="250"></td>
-    
   </tr>
   <tr>
     <td>İlhan Usmanbaş<br/>(1921-2025)<br/><br/></td>
@@ -50,11 +49,12 @@ To help expand this tribute, you can nominate a distinguished individual through
   <tr>
     <td><img src="honorees_images/volkan-konak.jpeg" width="250"></td>
     <td><img src="honorees_images/ilhan-sesen.jpeg" width="250"></td>
-    <td colspan="2" rowspan="2"></td>
+    <td><img src="honorees_images/engin-caglar.jpeg" width="250"></td>
   </tr>
   <tr>
     <td>Volkan Konak<br/>(1967-2025)<br/><br/></td>
     <td>İlhan Şeşen<br/>(1948-2025)<br/><br/></td>
+    <td>Engin Çağlar<br/>(1940-2025)<br/><br/></td>
   </tr>
 </table>
 
