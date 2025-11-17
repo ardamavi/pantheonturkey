@@ -56,6 +56,12 @@ To help expand this tribute, you can nominate a distinguished individual through
     <td>İlhan Şeşen<br/>(1948-2025)<br/><br/></td>
     <td>Engin Çağlar<br/>(1940-2025)<br/><br/></td>
   </tr>
+  <tr>
+    <td><img src="honorees_images/muazzez-abaci.jpeg" width="250"></td>
+  </tr>
+  <tr>
+    <td>Muazzez Abacı<br/>(1947-2025)<br/><br/></td>
+  </tr>
 </table>
 
 <!-- 2025 - End -->
