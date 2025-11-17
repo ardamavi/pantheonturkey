@@ -58,6 +58,7 @@ To help expand this tribute, you can nominate a distinguished individual through
   </tr>
   <tr>
     <td><img src="honorees_images/muazzez-abaci.jpeg" width="250"></td>
+    <td colspan="2" rowspan="2"></td>
   </tr>
   <tr>
     <td>Muazzez Abacı<br/>(1947-2025)<br/><br/></td>
