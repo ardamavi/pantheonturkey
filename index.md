@@ -20,6 +20,21 @@ To help expand this tribute, you can nominate a distinguished individual through
 
 <div style="width: 100%; display: flex; justify-content: center;">
 
+
+<!-- 2026 - Start -->
+
+<table style="text-align: center; width: auto;">
+  <caption style="caption-side: top; font-weight: bold;">
+    <h2>2026</h2>
+  </caption>
+  <tr>
+    <td><img src="honorees_images/haldun_dormen.jpeg" width="250"></td>
+    <td colspan="2" rowspan="2"></td>
+  </tr>
+</table>
+
+<!-- 2026 - End -->
+
 <!-- 2025 - Start -->
 
 <table style="text-align: center; width: auto;">
