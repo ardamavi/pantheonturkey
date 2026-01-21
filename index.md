@@ -18,11 +18,8 @@ To help expand this tribute, you can nominate a distinguished individual through
 
 <h1 style="text-decoration: none; border-bottom: none;">Eternal Legacies</h1>
 
-<div style="width: 100%; display: flex; justify-content: center;">
-
-
 <!-- 2026 - Start -->
-
+<div style="width: 100%; display: flex; justify-content: center;">
 <table style="text-align: center; width: auto;">
   <caption style="caption-side: top; font-weight: bold;">
     <h2>2026</h2>
@@ -34,15 +31,13 @@ To help expand this tribute, you can nominate a distinguished individual through
     <td>Haldun Dormen<br/>(1928-2026)<br/><br/></td>
   </tr>
 </table>
-
+</div>
 <!-- 2026 - End -->
 
 <br/>
 
-<br/>
-
 <!-- 2025 - Start -->
-
+<div style="width: 100%; display: flex; justify-content: center;">
 <table style="text-align: center; width: auto;">
   <caption style="caption-side: top; font-weight: bold;">
     <h2>2025</h2>
@@ -85,10 +80,8 @@ To help expand this tribute, you can nominate a distinguished individual through
     <td>Muazzez Abacı<br/>(1947-2025)<br/><br/></td>
   </tr>
 </table>
-
-<!-- 2025 - End -->
-
 </div>
+<!-- 2025 - End -->
 
 <br/>
 <hr/>
