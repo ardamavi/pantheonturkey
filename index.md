@@ -30,12 +30,14 @@ To help expand this tribute, you can nominate a distinguished individual through
   <tr>
     <td><img src="honorees_images/haldun_dormen.jpeg" width="250"></td>
   </tr>
-   <tr>
+  <tr>
     <td>Haldun Dormen<br/>(1928-2026)<br/><br/></td>
   </tr>
 </table>
 
 <!-- 2026 - End -->
+
+<br/>
 
 <br/>
 
